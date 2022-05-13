@@ -1,0 +1,14 @@
+# ninja log v5
+0	139	1652082810374311556	CMakeFiles/cpp_basics.dir/cpp_lessons_3_loops.cpp.o	66e4d90ff5496598
+1	146	1652099969423242486	CMakeFiles/cpp_basics.dir/dice_roll_example.cpp.o	344f8dfa71185b04
+0	151	1652096013678507425	CMakeFiles/cpp_basics.dir/random_number_generator.cpp.o	aff4b83b92db8192
+137	168	1652363958942051608	cpp_basics	1cebd72f642d633c
+1	146	1652091380101505879	CMakeFiles/cpp_basics.dir/desicion_making.cpp.o	fe60eb9ec96a2f33
+0	9	1652364181469939187	build.ninja	e5c1f7a50eb4b6e5
+0	148	1652276629458951494	CMakeFiles/cpp_basics.dir/array_example1.cpp.o	bbb3c32c8bdd0c58
+0	146	1652094490515233285	CMakeFiles/cpp_basics.dir/function_example.cpp.o	fe90779aff5cd60b
+0	137	1652363958910051624	CMakeFiles/cpp_basics.dir/array_example2.cpp.o	fd9597d497f82f67
+0	135	1652365975557478648	CMakeFiles/cpp_basics.dir/pointer-array_to_function.cpp.o	eb4ab526bf0eaf3
+135	167	1652365975589478642	cpp_basics	f204d6effb2610ec
+0	140	1652365990321475677	CMakeFiles/cpp_basics.dir/pointer-array_to_function.cpp.o	eb4ab526bf0eaf3
+140	172	1652365990353475671	cpp_basics	f204d6effb2610ec

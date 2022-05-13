@@ -1,0 +1,3 @@
+/home/zeys/self_development/cpp_basics/cmake-build-debug/CMakeFiles/cpp_basics.dir
+/home/zeys/self_development/cpp_basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zeys/self_development/cpp_basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
